@@ -1,6 +1,6 @@
 #IP Stats Email with updates
-#Made By Cole Patterson
-#V1.0 2/17/2022
+#Version 1.0 
+#Last Updated 2/17/2022
 
 #Adds Log Folder to system
 mkdir "C:\Windows_Logs\Email"
